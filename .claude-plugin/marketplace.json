@@ -1,0 +1,16 @@
+{
+  "name": "founders-social-sushidata-gtm",
+  "owner": {
+    "name": "Sushidata"
+  },
+  "plugins": [
+    {
+      "name": "founders-social-sushidata-gtm",
+      "source": {
+        "source": "github",
+        "repo": "georgeportillo/founders-social-plugin"
+      },
+      "description": "Sushidata context lake + GTM agent: prospecting, outbound, competitor battlecards, ICP signals, and outreach copy."
+    }
+  ]
+}
